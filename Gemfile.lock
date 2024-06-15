@@ -209,6 +209,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap
   debug
+  net-protocol (~> 0.2.2)
   pg (~> 1.4)
   puma (>= 5.0)
   rack-cors
